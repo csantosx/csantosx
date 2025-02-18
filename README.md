@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csantosx
 - 👀 I’m interested in video games and reading!
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new projects for my portfolio
 - 📫 How to reach me: my email
 - 😄 Pronouns: she/her
